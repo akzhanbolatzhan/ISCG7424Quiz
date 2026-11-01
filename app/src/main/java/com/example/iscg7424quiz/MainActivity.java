@@ -46,8 +46,8 @@ public class MainActivity extends AppCompatActivity {
                     ).show();
                 }
                 else if (
-                        email.equals("a")
-                                && password.equals("a")
+                        email.equals("admin@gmail.com")
+                                && password.equals("123456")
                 ) {
                     Toast.makeText(
                             getApplicationContext(),
@@ -61,8 +61,8 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(intent);
                 }
                 else if (
-                        email.equals("p")
-                                && password.equals("p")
+                        email.equals("player@gmail.com")
+                                && password.equals("123456")
                 ) {
                     Toast.makeText(
                             getApplicationContext(),
@@ -77,8 +77,8 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(intent);
                 }
                 else if (
-                        email.equals("pp")
-                                && password.equals("pp")
+                        email.equals("player2@gmail.com")
+                                && password.equals("123456")
                 ) {
                     Toast.makeText(
                             getApplicationContext(),

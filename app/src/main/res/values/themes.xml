@@ -3,7 +3,10 @@
     <style name="Base.Theme.ISCG7424Quiz" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
     </style>
 
     <style name="Theme.ISCG7424Quiz" parent="Base.Theme.ISCG7424Quiz" />
+
 </resources>
