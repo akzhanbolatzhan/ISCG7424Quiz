@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(intent);
                 }
                 else if (
-                        email.equals("player@gmail.com")
+                        email.equals("player1@gmail.com")
                                 && password.equals("123456")
                 ) {
                     Toast.makeText(
